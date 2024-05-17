@@ -1,0 +1,63 @@
+#menuSuperior{
+    display: flex;
+    justify-content: left;
+}
+
+#menuSuperior li{
+    list-style-type: none;
+    margin: 5px;
+}
+
+#menuSuperior a{
+    text-decoration: none;
+    color: black;
+    background-color:lime;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+}
+
+#tituloLeague{
+    color: red;
+    font-family: 'Comic Sans MS'
+}
+
+#imgLeague{
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+
+}
+
+#texto1{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+    
+}
+
+#texto2{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+}
+
+#texto3{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+}
+
+#texto4{
+    font-family: "Raleway", sans-serif;
+    font-size: 19px;
+}
+
+#tituloEnlaces{
+    color:rgb(118, 206, 118) ;
+    font-family: 'Comic Sans MS';
+}
+
+#menuEnlaces{
+    font-family: "Raleway", sans-serif;;
+}
+
+#tituloPalmares{
+    color: red
+}
